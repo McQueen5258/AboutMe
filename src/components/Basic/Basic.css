@@ -1,0 +1,11 @@
+#basic {
+    width: 100vw;
+    height: 100vh;
+
+    background-image: url(https://github.com/McQueen5258/AboutEric/blob/master/src/assets/image/abstract06.jpg?raw=true);
+    background-position: center;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
